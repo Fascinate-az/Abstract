@@ -12,7 +12,7 @@ class Quadrato : FormeGeometriche
 {
     private double _Lato;
 
-    public Quadrato(double lato)
+    public Quadrato(double lato) // viene passato il lato del metodo della prop
     {
         this.lato = lato;
     }
